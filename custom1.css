@@ -1,0 +1,25 @@
+/*
+Primo Speed Tracker CSS created by Bill Jones (jonesw@geneseo.edu)
+License CC BY-NC-SA
+Created for SUNY Libraries Shared Services, January 2020
+*/
+
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+/*This controls the div behind the speed test widget*/
+#speed_test {
+background:white;
+font-weight:600;
+margin:0px -23px -23px -23px;
+padding:5px 0 8px 0;
+}
+
+#thumbsup{
+color:#118c19;
+font-size:18px;
+}
+
+#thumbsdown{
+color:#b81c1c;
+font-size:18px;	
+}
